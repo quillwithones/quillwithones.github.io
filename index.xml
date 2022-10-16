@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Quill with Ones</title>
+    <link>https://quillwithones/</link>
+    <description>Recent content on Quill with Ones</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 16 Oct 2022 18:56:22 +0530</lastBuildDate><atom:link href="https://quillwithones/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>My First Post</title>
+      <link>https://quillwithones/posts/my-first-post/</link>
+      <pubDate>Sun, 16 Oct 2022 18:56:22 +0530</pubDate>
+      
+      <guid>https://quillwithones/posts/my-first-post/</guid>
+      <description>Blog 1 This is first line of the post
+get it done </description>
+    </item>
+    
+  </channel>
+</rss>
